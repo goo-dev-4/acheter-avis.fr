@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://acheter-avis.fr/sitemap.xml
+Sitemap: https://achat-vrai-avis.fr/sitemap.xml
